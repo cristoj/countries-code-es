@@ -1,0 +1,14 @@
+{
+  "name": "countries-code-es",
+  "authors": [
+    "cristoj <cristojvt@gmail.com>"
+  ],
+  "description": "List of countries in ISO 3166-1 (2) whith spanish name",
+  "main": "countries-code-es.json",
+  "keywords": [
+    "countries",
+    "code"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
